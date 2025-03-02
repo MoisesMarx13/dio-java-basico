@@ -1,5 +1,2 @@
 # dio-java-basico
-JAVA SCRIPT Moises e Gio
-oi oi oi oi 
-dgdfsdfsdfs
-fgfgdfgfdgd
+entendendo JAVA e VS CODE
