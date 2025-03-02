@@ -1,2 +1,3 @@
 # dio-java-basico
-Repositorio para armazenar todo o codigo do curso de javabasico
+JAVA SCRIPT Moises e Gio
+oi oi oi oi 
